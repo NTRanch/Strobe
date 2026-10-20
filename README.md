@@ -47,9 +47,11 @@ load-bearing rules as the rest of the design:
 
 ## Portrait status
 
-- All 20 portraits — briefs written in the story files; generation
-  pending (this line previously claimed two were generated ahead of the
-  files existing; corrected 2026-10-19).
+- Vivienne, Kaisa — begin/end portrait pairs generated, in
+  `portraits/` (identity held across each pair via snapshot resume).
+- Valentina, Maren, Yuna, Katya, Manon, Zuzana, Cordelia, Sadie —
+  briefs written in their story files; portraits pending generation
+  (16 of 20 remain).
 
 *Draft for Matt's gate. His perception is the lock; nothing here is final
 until he passes it.*
