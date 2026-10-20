@@ -53,5 +53,5 @@ load-bearing rules as the rest of the design:
   briefs written in their story files; portraits pending generation
   (16 of 20 remain).
 
-*Draft for Matt's gate. His perception is the lock; nothing here is final
-until he passes it.*
+*Draft for the studio gate. Nothing here is final
+until it passes.*

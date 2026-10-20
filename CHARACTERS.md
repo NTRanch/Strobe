@@ -1,6 +1,6 @@
 # Identity Anchors — the Strobe Cast
 
-**Differentiation rules (Matt, 2026-10-19): the Strobe girls carry
+**Differentiation rules (ruled 2026-10-19): the Strobe girls carry
 different names *and* different looks from their Light Show counterparts.**
 Same archetype slots, different women. Every heroine below differs from
 her Light Show namesake in name, hair color and/or cut, signature
