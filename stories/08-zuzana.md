@@ -1,6 +1,6 @@
 # Zuzana, 29 — "To Finally Lose"
 
-**Anchors:** sandy-blonde hair in a high ponytail; amber eyes; tall,
+**Anchors:** vivid-violet hair in a high ponytail; amber eyes; tall,
 sun-kissed, an athlete's easy power — she takes up a doorway the way a
 held note takes up a hall.
 
