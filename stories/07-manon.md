@@ -1,130 +1,71 @@
-# Manon, 26 — "The Feast She Dreams Of"
+# Manon, 26 — "The Doll She Dreams Of"
 
-**Anchors:** honey-blonde hair in a severe ballet bun; hazel eyes;
-discipline carved into her posture — shoulders down, neck long, every
-gesture placed.
+**Anchors:** honey-blonde hair scraped back in a severe practical style;
+hazel eyes that audit a room before she speaks; a trained, athletic body
+kept in amazing shape — the one domain she still enjoys controlling.
 
-**Backstory.** Manon has been a body under management since she was six:
-weighed, measured, corrected, cast. She is now in the corps de ballet of
-a major French company, dancing eight shows a week on a diet of other
-people's decisions. Her boyfriend Bastien is the company's répétiteur —
-he sets her schedule, her meals, her rest days, and calls all of it love,
-and she has let him, because being managed is the only intimacy her art
-has ever allowed her. What Manon dreams about is embarrassingly small
-and completely total: food. Butter. Bread eaten warm and without
-arithmetic. An afternoon in bed that is not "recovery." A man who looks
-at her body and sees not an instrument to be tuned but a feast to be
-enjoyed. She has desired indulgence the way other people desire escape,
-and she has filed it under *weakness* for twenty years.
+**Backstory.** Manon is staff-level engineering at a large
+infrastructure software company, and a hard-charging, domineering one.
+She runs incident command at 3 a.m., hands down architecture verdicts
+nobody else wants to own, and is the person every team routes its
+impossible problems to — many with no feasible solution on the
+resources she is given; she is accountable anyway. Deciding, directing,
+and knowing are her whole personality at work, and the burden is
+crushing her. Her boyfriend Bastien, an underemployed industrial
+designer, loves the brilliant, commanding provider version of her;
+their life runs on her salary and her competence. The gym is the one
+hour of her day when someone else decides everything. The daydream she
+is ashamed of is pink gloss, a perfect body kept for serving, pleasure
+as her only requirement — no decisions, no verdicts, no pager.
 
-**Hidden trait.** Sensual indulgence — appetite as a birthright: to eat,
-rest, and be wanted as a woman of flesh, not a mechanism of line.
+**Hidden trait.** The wish to stop thinking for a living: to have her
+intelligence and responsibility removed, not lost — surrendered, by
+name, to someone whose commands she can simply obey.
 
-**The before-bond.** Bastien, who kisses her forehead after weighing her
-and says, "We protect the instrument."
+**The before-bond.** Bastien, who calls her brilliant and means her
+usefulness, and whose life her competence quietly carries.
 
-**The vector.** Noah Ferreira, 30, the jazz pianist in the pit orchestra —
-a man who plays like rules are a rumor and eats like meals are a moral
-position. He watches the corps for a month, then leaves a paper bag on
-her barre: a warm brioche, and a note: "For the dancer in row two who
-watches the conductor's sandwiches more than the conductor."
+**The vector.** Noah, her personal trainer — calm, exact, decisive.
+For one hour a day he decides load, reps, and rest, and she obeys, and
+it is the happiest hour of her day. He has seen the daydream in her
+before she has admitted it to herself. The VOICE comes through a
+conditioning app she found and keeps secret; pressing play is her
+recurring act of willingness.
 
 **The arc.**
-- **Stage 0 — Unaware.** Manon counts almonds, smiles through hunger,
-  and tells interviewers that discipline is freedom.
-- **Stage 1 — First Spark.** She books strobe sessions for the tension
-  living in her jaw and shoulders. In trance, asked what her body wants,
-  she answers before she can stop herself: "Breakfast. In bed. Brought
-  by someone who isn't counting."
-- **Stage 2 — Secret Practice.** The brioche is eaten — in a stairwell,
-  like a crime, with her eyes closed. Then Sunday pastries become a
-  ritual hidden from Bastien, and Noah starts "accidentally" timing his
-  breaks to hers, saying nothing, offering everything on a plate.
-- **Stage 3 — Choosing.** Noah invites her to his family's Sunday table —
-  a six-hour lunch where nobody has ever heard of a corps contract. She
-  looks at her calendar (Bastien's handwriting: REST — NO EXERTION, NO
-  EXCEPTIONS) and writes over it: LUNCH. She goes.
-- **Stage 4 — No More Hiding.** Bastien finds brioche crumbs — finds,
-  in fact, the whole double life of appetite — and the rupture is not
-  really about Noah. "You've been feeding yourself like it's adultery,"
-  he says, bewildered, and Manon hears how true and how sad that is.
-  They end it. He keeps the instrument. She keeps the woman.
-- **Stage 5 — Self-Driven.** Manon dances better than she ever has —
-  fed dancers do — moves to contemporary work where her body is allowed
-  weight and appetite, and takes her Sundays at Noah's table like a
-  sacrament. The end portrait: bun undone, hair falling, silk dress, a
-  pastry in hand and heart pupils — a woman feasting on her own life.
+- **Stage 0 — Unaware.** Manon runs the bridge, wins the argument,
+  carries the pager, and tells herself command is who she is.
+- **Stage 1 — First Spark.** She finds the VOICE. In session, asked
+  what she wants, she answers before she can stop herself: "For
+  someone else to decide. Everything. And for it to be all right
+  that I want that."
+- **Stage 2 — Secret Practice.** Gloss, rituals, small surrenders
+  rehearsed in private; the gym hour with Noah becomes the center
+  of her day and everything else becomes the wait around it.
+- **Stage 3 — Choosing.** She initiates: she asks Noah for more —
+  more deciding, more training, less of her own judgment in the
+  loop. The agency flip is hers, in her words.
+- **Stage 4 — No More Hiding.** The rupture with Bastien is not
+  really about Noah. It is about a life financed and directed by
+  her competence. They end it. He keeps the provider. She keeps
+  herself.
+- **Stage 5 — Self-Driven.** Manon resigns the engineer's life and
+  asks, by name, for the removal to be made complete. Her head does
+  not go quiet — it changes its subject: his voice, her body, her
+  training, his next command. The end portrait: hair still scraped
+  back for training, gloss on, heart pupils, mid-laugh — the doll,
+  on purpose.
 
-**End state.** Happiest: appetite restored to her as joy rather than
-managed as threat. She didn't leave ballet; she left starvation, in
-every sense it had colonized.
+**End state.** Happiest: relieved of deciding as a way of life. She
+didn't lose her mind; she laid down its burdens, in every sense they
+had colonized. Her discipline survives — kept in her body, offered,
+never managed as threat.
 
 **Portrait briefs.**
-- *Begin:* bun severe, practice clothes and leg warmers, distant
-  disciplined expression — the instrument, perfectly tuned and hungry.
-- *End:* same face; bun undone, honey hair falling, burgundy silk dress,
-  heart pupils, mid-laugh with a pastry in hand — the feast.
-
-## Dialogue
-
-*VOICE = the session voice (the player), delivered over the track.*
-
-### Scene 1 — The studio corridor (Stage 0)
-
-BASTIEN: 48.2. Good. You see? We protect the instrument, and the
-instrument performs. Dinner is the salad, chérie, not the pasta — we
-discussed.
-MANON: We discussed. *(beat)* The pasta is for the principals?
-BASTIEN: The pasta is for people whose careers can afford it. Kiss?
-*(he kisses her forehead)* Eight shows. We are so close to soloist.
-MANON: *(alone, looking at her reflection)* Soloist. *(whisper)* I
-would trade the solo for one warm croissant. What is *wrong* with me?
-
-### Scene 2 — First session (Stage 1)
-
-VOICE: Let the beat carry the jaw, the shoulders, the hands. Underneath
-the tension — what does the body want, Manon?
-MANON: Rest. Alignment. Recovery—
-VOICE: Not the dancer. The body.
-MANON: *(a breath, then, startled out of herself)* Breakfast. In bed.
-Warm bread, real butter, coffee with cream — brought by someone who is
-not counting. *(eyes opening)* I didn't— I don't know why I said that.
-VOICE: You do. You said it beautifully. Remember that you said it.
-
-### Scene 3 — The stairwell (Stage 2)
-
-MANON: *(reading the note)* "For the dancer in row two who watches the
-conductor's sandwiches more than the conductor." *(a long pause; the
-sound of a paper bag opening)* This is bribery. This is a trap. This
-is— *(bite; silence; then, quietly, like a confession)* —still warm.
-
-### Scene 4 — The calendar (Stage 3)
-
-NOAH: Sunday. My mother's table. Six hours, seven courses, one rule:
-nobody performs. You don't have to dance, charm, or be *on*. You just
-have to be hungry and let people love that about you.
-MANON: Bastien writes my Sundays. REST — NO EXERTION, NO EXCEPTIONS.
-That's his handwriting. His love language is a schedule.
-NOAH: Then write over it, Manon. One word. In your handwriting.
-MANON: *(pen hovering; then, firmly)* LUNCH. *(beat)* There. I've
-committed treason in one syllable.
-
-### Scene 5 — The rupture (Stage 4)
-
-BASTIEN: Brioche. In your bag. Manon — do you understand what you've been
-doing? Feeding yourself like it's *adultery*.
-MANON: Yes. Listen to yourself, Bastien — that sentence is the whole
-marriage we were going to have. A woman should not be able to describe
-bread as betrayal. But I can. Because in your house, it is one.
-BASTIEN: I was protecting your career—
-MANON: You were protecting the instrument. The woman is leaving with
-her appetite. We both deserve to be honest about which one you loved.
-
-### Scene 6 — The session room, last session of the arc (Stage 5)
-
-VOICE: Your shoulders are different. The jaw. Everything.
-MANON: I ate breakfast in bed this morning. He brought it — coffee with
-cream, Voice, *cream* — and then I danced the best rehearsal of my
-life. Fed. Who knew the instrument wanted to be a woman first?
-VOICE: And what does the body want now?
-MANON: *(laughing, heart in her eyes)* Seconds.
+- *Begin:* hair scraped back severe, training clothes, laptop and
+  pager at hand, command posture — the incident commander, perfectly
+  capable and quietly desperate. (Generated 2026-10-22 in the
+  portrait run as manon_begin.png, engineer canon already.)
+- *End:* same face; gloss, collar, heart pupils, trained body at
+  ease, no devices in frame — the doll she asked to become.
+  (NOT generated — held until this re-canon is approved.)

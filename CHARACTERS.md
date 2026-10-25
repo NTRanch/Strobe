@@ -24,7 +24,7 @@ heart pupils; natural iris color always shows through.
 | Maren | 30 | Chestnut, practical ponytail | Green | (Clara) LS: short bob (dark or auburn), teal/amber eyes, LC hairpin. TB: no bob, no pin — a nurse's ponytail, green eyes |
 | Yuna | 24 | Black, long hime cut worn down | Brown | (Hikari) LS: ponytail, glasses, glowing fiber strand. TB: hair down, no glasses, no fiber — a performer's composure |
 | Katya | 27 | Ash silver, sharp bob | Gray | (Lattice) LS: patch-cable braids, RJ45 pin, grid jacket. TB: a sleek bob and tailoring — nothing plugged in |
-| Manon | 26 | Honey blonde, severe ballet bun | Hazel | (Léa) LS: trainee register. TB: a professional dancer's carved discipline |
+| Manon | 26 | Honey blonde, scraped back severe | Hazel | (Léa) LS: trainee register. TB: a staff engineer's command presence — scraped-back hair, incident-command posture, discipline kept in the body |
 | Zuzana | 29 | Vivid violet, high ponytail | Amber | (Linka) LS: violet hair, antenna-fin side ponytail, holo visor. TB: violet too, but a natural high ponytail — no antenna-fin, no visor — an athlete, not a signal |
 | Cordelia | 27 | Deep teal, long loose waves | Aqua | (Ondine) LS: locked trainee design. TB: sea-colored hair worn wild, a biologist's calm surface |
 | Sadie | 28 | Copper, short messy bob | Hazel-green | (Tessa) LS: warehouse crew. TB: freckles and copper — a tower rigger's tomboy warmth |
