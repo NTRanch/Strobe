@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Strobe Track B core tests. The Core sources live in the Unity
+    project (Assets/Scripts/Core) and are compiled here by link so
+    the logic is gated headlessly with dotnet test, without opening
+    the editor. LangVersion is pinned to 9.0 — Unity 6000's compiler
+    ceiling — so this project also proves the Core sources stay
+    inside what Unity can compile. The Unity-side gate (asmdef
+    compile in batchmode) runs separately.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <IsPackable>false</IsPackable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\Assets\Scripts\Core\*.cs" LinkBase="Core" />
+  </ItemGroup>
+
+</Project>
