@@ -15,3 +15,5 @@
 - MCP GAPS (2026-10-25): storefront/community ops = a skill, not a server;
   periscope is the standard verification path for this build; phaedrus
   research output routes into lupin; broadside never extends to NTRanch.
+
+- PRATIQUE (2026-10-25): the NTRanch enforcement-gate MCP is named pratique (Owner ruling; IDEA-0091). Brief at ~/workspace/pratique-20261025/BRIEF.md (sandbox); build on Owner go.
