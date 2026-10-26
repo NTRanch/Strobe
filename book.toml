@@ -12,4 +12,6 @@ create-missing = false
 command = "mdbook-mermaid"
 
 [output.html]
+default-theme = "coal"
+additional-css = ["book/theme/strobe.css"]
 git-repository-icon = "fa-github"

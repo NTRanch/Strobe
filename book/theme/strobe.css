@@ -1,0 +1,91 @@
+/* Strobe book theme — opera glamour at night.
+   Black-cherry and deep violet, amethyst accents, warm ivory text.
+   Overrides the mdBook "coal" built-in theme variables only;
+   local system font stacks, no external assets. */
+
+.coal {
+    --bg: #140710;
+    --fg: #f3eae6;
+
+    --sidebar-bg: #1c0a16;
+    --sidebar-fg: #d9c8d4;
+    --sidebar-non-existant: #6e5570;
+    --sidebar-active: #c99df0;
+    --sidebar-spacer: #3d1a33;
+    --sidebar-header-border-color: #b183e6;
+
+    --scrollbar: var(--sidebar-fg);
+
+    --icons: #a888b0;
+    --icons-hover: #e8d5f5;
+
+    --links: #b183e6;
+
+    --inline-code-color: #e9d3f7;
+    --code-bg: #241026;
+
+    --theme-popup-bg: #1c0a16;
+    --theme-popup-border: #3d1a33;
+    --theme-hover: #2a1124;
+
+    --quote-bg: #220d1c;
+    --quote-border: #3d1a33;
+
+    --table-border-color: #3d1a33;
+    --table-header-bg: #2a1124;
+    --table-alternate-bg: #1a0a18;
+
+    --searchbar-border-color: #3d1a33;
+    --searchbar-bg: #f3eae6;
+    --searchbar-fg: #140710;
+    --searchbar-shadow-color: #3d1a33;
+    --searchresults-header-fg: #d9c8d4;
+    --searchresults-border-color: #3d1a33;
+    --searchresults-li-bg: #220d1c;
+    --search-mark-bg: #6d3ba8;
+
+    --footnote-highlight: #b183e6;
+
+    --overlay-bg: rgba(20, 7, 16, 0.5);
+}
+
+/* Code blocks sit on the violet-dark tint. */
+.coal code {
+    background-color: var(--code-bg);
+}
+
+/* Link hover: the lighter amethyst. */
+.coal a:hover {
+    color: #d3aef5;
+}
+
+/* Elegant serif display type for headings. */
+.coal h1,
+.coal h2 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.coal h1 {
+    letter-spacing: 0.02em;
+    border-bottom: 1px solid #b183e6;
+    padding-bottom: 0.2em;
+}
+
+/* Amethyst-tinted selection. */
+.coal ::selection {
+    background: rgba(177, 131, 230, 0.35);
+}
+
+/* The strobe signature: one 2px flash line across the very top —
+   transparent to warm white to amethyst to transparent. One place only. */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #fff6ec, #b183e6, transparent);
+    z-index: 1000;
+    pointer-events: none;
+}
