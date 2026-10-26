@@ -1,0 +1,15 @@
+[book]
+title = "Strobe — Game Book"
+authors = ["Nice Thoughts Ranch"]
+language = "en"
+src = "book/src"
+
+[build]
+build-dir = "book/dist"
+create-missing = false
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+git-repository-icon = "fa-github"
