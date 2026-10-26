@@ -94,6 +94,10 @@ critical path; other workstreams advance only as they feed it.
   geometry, authored curves, rendered frames, produced audio).
 - `.ai/memory` completed to the estate form (handoff + inbox +
   archive added; current state and decisions refreshed).
+- Code intelligence: SCIP index of the lumen workspace (the rig
+  factory) generated with rust-analyzer and landed in `code-intel/`;
+  every Strobe-program Rust workspace refreshes its index there
+  after its gates pass.
 
 ### 2026-10-20
 
