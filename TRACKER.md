@@ -15,16 +15,16 @@ critical path; other workstreams advance only as they feed it.
 
 | Workstream | Progress | State | Next step | Updated |
 |---|---|---|---|---|
-| Strobe (overall) | `████████░░░░░░░░░░░░` 40% | Engine ruled (Bevy); animation pivot under way | Vivienne proof unit, identity gate | 2026-10-25 |
+| Strobe (overall) | `████████████░░░░░░░░` 60% | Rust game complete and gated; demo packaged; Owner verdict walk under way | itch upload (authorized, staged); fleet face pass | 2026-11-06 |
 | Design | `██████████████░░░░░░` 70% | D1–D7 ruled; D2 superseded (Bevy, below) | Slice SPEC §3/§8 rewrite as Bevy systems | 2026-10-25 |
-| Cast book | `██████████████████░░` 90% | Text 10/10; portraits 20 BEGIN + 10 END v3 keepers landed in `portraits/` | Expression sets for the slice | 2026-10-25 |
-| Game core | `█████████░░░░░░░░░░░` 45% | C# Core 82/82 in the primo trackb tree (drop 1 + Surface Beat + 5A + weighting hook); `game/` here is the pre-5A Unity drop, reference only | Rust port checked against the 82 tests, inside the slice | 2026-10-25 |
-| Vertical slice (Vivienne) | `███░░░░░░░░░░░░░░░░░` 15% | SPEC written (968 lines, 10-step spine, gates) | Pax review with the Bevy rewrite; build after proof G1 | 2026-10-25 |
-| Animation | `██░░░░░░░░░░░░░░░░░░` 10% | Fathom motion-record/3 schema complete; rig runtime commissioned (lumen); 3D proof dispatched to identity gate | G1 eye gate: GLB + turntable vs portrait anchors | 2026-10-25 |
+| Cast book | `██████████████████░░` 90% | Text 10/10; portraits 20 BEGIN + 10 END v3 keepers landed in `portraits/`; Vivienne keeper pair ruled (C1 Begin + E2 End) | Expression sets (Vivienne's unblocked) | 2026-11-06 |
+| Game core | `██████████████████░░` 90% | Rust workspace complete: 124 passed / 0 failed, clippy + fmt clean, golden determinism hash reproduced; C# Core is reference only (primo checkout retired 2026-11-06, history preserved as a verified bundle) | Full-game content beyond the demo chapter; audio landing | 2026-11-06 |
+| Vertical slice (Vivienne) | `████████████████████` 100% | `strobe-play` demo covers the full first chapter under the D-181 mapping; packages byte-identical to the gated build | Ship via the authorized itch upload | 2026-11-06 |
+| Animation | `█████░░░░░░░░░░░░░░░` 25% | D-654 rigged fleet built (10 girls, 54 bones / 36 morph targets, viewer gates passed); Owner rejected the fleet's look 2026-11-06 | Real face + hair pass before any adoption | 2026-11-06 |
 | Lovense integration | `██████████░░░░░░░░░░` 50% | MCP S1 shipped (safety contract: master OFF default, ceiling clamp, synchronous stop, no resume, 5 s watchdog) | Bridge in slice stage 7 vs mock; live rung S4 on Owner go + presence | 2026-10-25 |
-| Art pipeline | `███████████░░░░░░░░░` 55% | Catalog v7: 601 rows, 74 keepers; eye gates: 117-image pass + BDSM batches (58 keeps); Pony lanes adopted (scenes; portraits/eyes dual-lane); Wan tranche-1: 0/24 keeps, retries queued and deprioritized under the pivot | Catalog v8 validation, then 6d fold-in | 2026-10-25 |
-| Audio | `█░░░░░░░░░░░░░░░░░░░` 5% | AUDIO-FACTORY standard written; no assets landed | Aria pilot (Vivienne) inside the proof unit | 2026-10-25 |
-| Publication | `██░░░░░░░░░░░░░░░░░░` 10% | Route ruled (D4); PUBLICATION.md compiled | Store fee is the owner's call | 2026-10-25 |
+| Art pipeline | `█████████████░░░░░░░` 65% | D-802 kink stylesheet adopted as record (D-826 re-base); factory packs walked: object ruled (1 kept / 17 rejected, refire queued), clothing ruled (design refs, refire queued), character stills walked (9 of 63 rejected) | Isolation-hardened refires; audio + effect pack sittings | 2026-11-06 |
+| Audio | `█░░░░░░░░░░░░░░░░░░░` 5% | AUDIO-FACTORY standard written; factory audio pack (45) awaits the Owner's ear pass; no assets landed | Ear pass, then Vivienne pilot | 2026-11-06 |
+| Publication | `██████░░░░░░░░░░░░░░` 30% | itch demo upload authorized 2026-11-06; zips staged on primo, hash-verified; Steam route ruled (D4) for later | Owner `butler login`, then push + verify | 2026-11-06 |
 
 ## Design decisions (all ruled)
 
@@ -52,6 +52,15 @@ critical path; other workstreams advance only as they feed it.
 
 ## Rulings log (program level)
 
+- 2026-11-06 — Owner verdict walk on the finish-up queue: Vivienne
+  keeper pair confirmed (C1 + E2); D-654 fleet look rejected (face +
+  hair pass gates adoption); D-802 stylesheet adopted as record;
+  object and clothing factory packs ruled as sets with refires
+  queued; character stills walked (9 of 63 rejected); draft demo
+  copy accepted; itch upload authorized; primo C# checkout retired
+  with its history preserved as a verified git bundle.
+- 2026-10-28 — Vivienne keeper pair ruled: Begin = C1 cel,
+  End = E2 magenta gown (E1 black lace alternate).
 - 2026-10-25 — Engine: Bevy / Rust (D2 superseded, above).
 - 2026-10-25 — Animation priority: all resources to the animation
   problem; geometry-first route (this tracker, Animation row).
@@ -69,6 +78,26 @@ critical path; other workstreams advance only as they feed it.
 
 ## Log
 
+### 2026-11-06
+
+- Finish-up re-gate (2026-11-05 night, verified from run files):
+  fmt clean, clippy clean (incl. the render feature), 124 passed /
+  0 failed, release builds rc 0, golden determinism hash
+  `631d1066…` reproduced from fresh state twice; demo zips verified
+  byte-identical to the gated build. The unused `bevy_time`
+  workspace dependency was removed and the tree re-gated green.
+- The shipped Rust source tree, which had no version control, was
+  given a local-only git repo (no remote, nothing pushed); its
+  long-term home in this repo is a separate Owner ruling.
+- Owner verdict walk (see Rulings log): keeper pair confirmed,
+  fleet look rejected pending a face + hair pass, stylesheet
+  adopted, three factory packs ruled or walked, copy accepted,
+  itch upload authorized and staged, C# checkout retired with a
+  verified bundle preserving its full history.
+- Prose v2 verdicts deferred by the Owner to dedicated reading
+  sittings; the audio and effect factory packs deferred to their
+  own ear/file sittings.
+
 ### 2026-10-25
 
 - Portraits completed and landed here: 20 BEGIN keepers (eye-gate
@@ -77,7 +106,7 @@ critical path; other workstreams advance only as they feed it.
   The four stale files previously in `portraits/` were replaced by
   the current masters.
 - Core reached 82/82 (5A Aftercare-in-hub + per-track weighting hook
-  landed in the primo trackb tree; Suite was 62/62). The `game/`
+  landed in the primo trackb tree; suite was 62/62). The `game/`
   copy in this repo remains the earlier Unity drop and is now
   reference material under the Bevy ruling.
 - Surface Beat implemented and gated in Core (trance → act →
