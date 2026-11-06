@@ -1,0 +1,37 @@
+[package]
+name = "strobe-game"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+description = "Strobe game: the Bevy binary — hub/session/presentation, data, save, analytics (SPEC-BEVY §3)."
+
+[features]
+# The rendered boot smoke (§8.5): pulls the Bevy facade's 2D +
+# platform set for the smoke binary only. The game logic and the
+# headless harness build without it.
+render = ["dep:bevy"]
+
+[[bin]]
+name = "strobe"
+path = "src/main.rs"
+
+[[bin]]
+name = "strobe-smoke"
+path = "src/bin/strobe_smoke.rs"
+required-features = ["render"]
+
+[dependencies]
+bevy = { workspace = true, optional = true }
+bevy_app.workspace = true
+bevy_ecs.workspace = true
+bevy_state.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+sha2.workspace = true
+strobe-bridge.workspace = true
+strobe-core.workspace = true
+
+[[bin]]
+name = "strobe-play"
+path = "src/bin/strobe_play.rs"
+required-features = ["render"]

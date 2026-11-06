@@ -1,0 +1,9 @@
+[package]
+name = "strobe-bridge"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+description = "Strobe Lovense bridge: the pure safety gate core plus transports (SPEC §4 B1-B5, SPEC-BEVY §3.5). Bevy-independent."
+
+[dependencies]
+strobe-core.workspace = true

@@ -1,0 +1,3 @@
+# Estate pin (D-111 / SPEC-BEVY G1-B): one reviewed nightly everywhere.
+[toolchain]
+channel = "nightly-2026-09-25"

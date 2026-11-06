@@ -1,0 +1,31 @@
+# Strobe — Cargo workspace (SPEC-BEVY §3.0 layout).
+#
+# Dependency direction is one-way: strobe-game and strobe-bridge depend
+# on strobe-core; strobe-core depends on neither, and on no engine.
+
+[workspace]
+members = ["crates/strobe-bridge", "crates/strobe-core", "crates/strobe-game"]
+resolver = "2"
+
+[workspace.package]
+edition = "2024"
+license = "Apache-2.0"
+
+[workspace.dependencies]
+# The Bevy pin of record (SPEC-BEVY G1-B): the workspace pins once;
+# Cargo.lock is the pin of record and builds run --locked. The game
+# logic builds on the Bevy subcrates directly (app/ecs/state/time);
+# the facade is used only by the rendered boot-smoke binary behind
+# strobe-game's `render` feature.
+bevy = { version = "=0.20.0", default-features = false, features = ["2d", "default_platform"] }
+bevy_app = "=0.20.0"
+bevy_ecs = "=0.20.0"
+bevy_state = "=0.20.0"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+strobe-bridge = { path = "crates/strobe-bridge" }
+strobe-core = { path = "crates/strobe-core" }
+
+[profile.release]
+lto = "thin"
