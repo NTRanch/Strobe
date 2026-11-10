@@ -156,7 +156,7 @@ specification.
 twenty portraits are done, the vertical slice — one heroine, end to
 end — is in production, and the full design record lives in this repo:
 the [game book](book/) renders the cast, tracker, and decisions as a
-readable site. Release route: itch.io first.
+readable site. The public demo — Vivienne's first chapter, free — is out now via [GitHub Releases](https://github.com/NTRanch/Strobe/releases/tag/v0.1.0-demo) (v0.1.0-demo).
 
 ---
 

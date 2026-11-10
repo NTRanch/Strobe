@@ -41,7 +41,7 @@ Begin / End portraits from the cast book in this repo:
 
 ## Status
 
-**In active development.** The cast book is written, all twenty portraits are done, and the vertical slice — one heroine, end to end — is in production. The design's logic core was proven first (82 automated tests, green) and is being ported to Rust against those tests as its specification. No public build yet; the release route is itch.io first, and this GitHub page is the game's home in the meantime. Free on release.
+**In active development.** The cast book is written, all twenty portraits are done, and the vertical slice — one heroine, end to end — is in production. The design's logic core was proven first (82 automated tests, green) and is being ported to Rust against those tests as its specification. A public demo — the first chapter, free — is out now via this repo's [GitHub Releases](https://github.com/NTRanch/Strobe/releases/tag/v0.1.0-demo) (v0.1.0-demo), and this GitHub page is the game's home in the meantime.
 
 ## Credits
 
