@@ -1,3 +1,5 @@
+> **Game page:** the full storefront page for this game lives at [docs/GAME-PAGE.md](docs/GAME-PAGE.md).
+
 # STROBE
 
 **Ten women. Ten hidden desires. One phone that knows.**
