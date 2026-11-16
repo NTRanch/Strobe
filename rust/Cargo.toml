@@ -4,7 +4,12 @@
 # on strobe-core; strobe-core depends on neither, and on no engine.
 
 [workspace]
-members = ["crates/strobe-bridge", "crates/strobe-core", "crates/strobe-game"]
+members = [
+    "crates/strobe-bridge",
+    "crates/strobe-core",
+    "crates/strobe-game",
+    "crates/strobe-tui",
+]
 resolver = "2"
 
 [workspace.package]
